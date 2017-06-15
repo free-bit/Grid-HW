@@ -1,6 +1,6 @@
 # Grid-HW
 
-Concept:<br />
+Concepts:<br />
 Haskell Basics<br />
 <br />
 Usage:<br />
